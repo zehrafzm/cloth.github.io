@@ -83,3 +83,12 @@ input:hover,button:hover{
     grid-template-columns: auto auto;
     
 }
+.bagProduct{
+    height: 10rem;
+    margin: 5em;
+    display: inline-block;
+}
+.bagProductImage{
+    height: 12rem;
+    display: inline-block;
+}
