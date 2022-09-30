@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cloth/static/css/main.4ed04571.css",
-    "main.js": "/cloth/static/js/main.ed7c32b4.js",
-    "static/js/787.ea13e339.chunk.js": "/cloth/static/js/787.ea13e339.chunk.js",
-    "static/media/cara2.png": "/cloth/static/media/cara2.b8489dd195045b108747.png",
-    "index.html": "/cloth/index.html",
-    "main.4ed04571.css.map": "/cloth/static/css/main.4ed04571.css.map",
-    "main.ed7c32b4.js.map": "/cloth/static/js/main.ed7c32b4.js.map",
-    "787.ea13e339.chunk.js.map": "/cloth/static/js/787.ea13e339.chunk.js.map"
+    "main.css": "/cloth.github.io/static/css/main.2b7cf6f8.css",
+    "main.js": "/cloth.github.io/static/js/main.717fcf72.js",
+    "static/js/787.ea13e339.chunk.js": "/cloth.github.io/static/js/787.ea13e339.chunk.js",
+    "static/media/cara2.png": "/cloth.github.io/static/media/cara2.b8489dd195045b108747.png",
+    "index.html": "/cloth.github.io/index.html",
+    "main.2b7cf6f8.css.map": "/cloth.github.io/static/css/main.2b7cf6f8.css.map",
+    "main.717fcf72.js.map": "/cloth.github.io/static/js/main.717fcf72.js.map",
+    "787.ea13e339.chunk.js.map": "/cloth.github.io/static/js/787.ea13e339.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ed04571.css",
-    "static/js/main.ed7c32b4.js"
+    "static/css/main.2b7cf6f8.css",
+    "static/js/main.717fcf72.js"
   ]
 }
