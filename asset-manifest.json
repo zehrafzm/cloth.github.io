@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cloth/static/css/main.4ed04571.css",
+    "main.js": "/cloth/static/js/main.ed7c32b4.js",
+    "static/js/787.ea13e339.chunk.js": "/cloth/static/js/787.ea13e339.chunk.js",
+    "static/media/cara2.png": "/cloth/static/media/cara2.b8489dd195045b108747.png",
+    "index.html": "/cloth/index.html",
+    "main.4ed04571.css.map": "/cloth/static/css/main.4ed04571.css.map",
+    "main.ed7c32b4.js.map": "/cloth/static/js/main.ed7c32b4.js.map",
+    "787.ea13e339.chunk.js.map": "/cloth/static/js/787.ea13e339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ed04571.css",
+    "static/js/main.ed7c32b4.js"
+  ]
+}
